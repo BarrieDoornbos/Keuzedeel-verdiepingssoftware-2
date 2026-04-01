@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-zombieShooter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/barri/OneDrive/Documenten/Unreal Projects/zombieShooter/Intermediate/Build/Win64/x64/zombieShooterEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/barri/OneDrive/Documenten/Unreal Projects/zombieShooter/Intermediate/Build/Win64/x64/UnrealEditor/Development/zombieShooter/zombieShooter.cpp.obj"
+"C:/Users/barri/OneDrive/Documenten/Unreal Projects/zombieShooter/Intermediate/Build/Win64/x64/UnrealEditor/Development/zombieShooter/PerModuleInline.gen.cpp.obj"
+"C:/Users/barri/OneDrive/Documenten/Unreal Projects/zombieShooter/Intermediate/Build/Win64/x64/UnrealEditor/Development/zombieShooter/Default.rc2.res"
+/OUT:"C:/Users/barri/OneDrive/Documenten/Unreal Projects/zombieShooter/Intermediate/Build/Win64/x64/UnrealEditor/Development/zombieShooter/UnrealEditor-zombieShooter.lib"
