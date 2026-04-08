@@ -1,8 +1,0 @@
-[11684:17908:0408/123834.759:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[11684:35336:0408/123834.831:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[11684:17908:0408/123834.844:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[6220:22236:0408/123840.115:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C1F70DAA1170286F33DA6246B6330090 will be ignored
-[17736:32088:0408/123840.200:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 25
-[11684:17908:0408/123840.452:ERROR:device_event_log_impl.cc(196)] [12:38:40.448] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[17736:32088:0408/124703.999:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 5
-[11684:17908:0408/133311.290:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
